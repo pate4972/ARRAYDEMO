@@ -11,7 +11,8 @@ package arraydemo;
 public class studentlist {
     //added first comment
     //added comment for fetchmerge
-    added the third comment
+    //added the third comment
+     // added comment for pull   
     public static void main(String[] args){
      Student s1 = new Student("s1","Saif");
      Student[] studentList = new Student[3];
